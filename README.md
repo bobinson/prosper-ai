@@ -1,6 +1,4 @@
-Forked by [Nolyoly](https://steemit.com/@noly) to continue development of this project.
-
-## About the Prosper-ai Project
+## About the Prosper-ai Python Project
 Prosper-ai is a bot built with Node.JS for the Steemit social network. It decides which posts to vote for and casts votes on behalf of a registered user. 
 
 This project is also made open-source with documentation on how to set it up on your own server. This means that you too can set up your own bot to run seperately from our Prosper-ai project. You own the server and control it 100%. You control the running of the bot and set the configuration.
