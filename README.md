@@ -1,3 +1,4 @@
+![](https://steemitimages.com/600x800/https://res.cloudinary.com/hpiynhbhq/image/upload/v1511153045/w8gocohjfgndgxqu4lex.png)
 ## About the Prosper-ai Python Project
 Prosper-ai is a bot built with Node.JS for the Steemit social network. It decides which posts to vote for and casts votes on behalf of a registered user. 
 
